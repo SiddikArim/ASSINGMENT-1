@@ -37,3 +37,9 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+#my-pic {
+    width: 60%;
+    padding-left: 150px;
+    border-radius: 35px;
+}
