@@ -17,6 +17,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -42,4 +43,10 @@ section {
     width: 60%;
     padding-left: 150px;
     border-radius: 35px;
+}
+
+.goals {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
