@@ -15,7 +15,7 @@ h1 {
     color: cyan;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 50px;
 }
