@@ -50,3 +50,7 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+#padding {
+    padding-left: 100px;
+}
