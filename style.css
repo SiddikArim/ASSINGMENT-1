@@ -64,8 +64,20 @@ h1 {
 
 }
 
+#junior {
+    border-left: solid 7px blueviolet;
+}
+
 .experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+
+#social {
+    border-left: solid 7px peru;
+}
+
+footer p {
+    text-align: center;
 }
