@@ -80,4 +80,12 @@ h1 {
 
 footer p {
     text-align: center;
+
+}
+
+b {
+    color: cadetblue;
+    background-image: linear-gradient(navy, purple);
+    border-radius: 5px;
+    padding: 10px;
 }
